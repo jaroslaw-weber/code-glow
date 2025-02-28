@@ -1,0 +1,11 @@
+{
+  "name": "code-glow",
+  "version": "0.1.0",
+  "description": "Autonomous agent that refactors your code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaroslaw Weber <jaroslawweber@gmail.com>",
+  "license": "MIT"
+}
